@@ -33,7 +33,7 @@ These dependencies will be installed automatically using the steps below.
 
 To run the simulation, use the following command:
 ```sh
-python Earth_Moon_Simulation.py
+python main.py
 ```
 ## Technical Details
 
