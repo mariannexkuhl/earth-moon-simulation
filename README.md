@@ -2,7 +2,7 @@
 
 This project simulates the orbital dynamics between the Earth and the Moon using Python. It makes use of classical Newtonian mechanics, specifically Newton's gravitational law for the interaction between the Earth and Moon. It also takes into account the Earth's axial rotation for added realism.
 
- <img src="animation.gif" alt="animation" width="400"/>
+ <img src="tools/animation.gif" alt="animation" width="400"/>
 
 ## Dependencies
 
